@@ -9,7 +9,7 @@ multiqc *_001.fastq.gz
 echo " MultiQC End"
 
 ## Adopt from GTEx (OH75) using oh100
-ml GCC/6.4.0-2.28 Intel/2017.4.196 STAR/2.5.4b
+#ml GCC/6.4.0-2.28 Intel/2017.4.196 STAR/2.5.4b
 STAR \
      --runMode genomeGenerate \
      --genomeDir STARv254b_genome_GRCh38_v26_oh100 \
