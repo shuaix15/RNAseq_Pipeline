@@ -1,2 +1,4 @@
 # RNAseq_Pipeline
-Adopt from GTEx 
+### Author: Shuai Xu
+
+
